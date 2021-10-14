@@ -41,7 +41,8 @@ class Solution {
         }
     // [1, 2, 3] -> 4    
         return n + 1;
-        
+    // Time Complexity - O(n)
+    // Space Complexity - O(1)
         
     }
     
